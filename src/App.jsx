@@ -206,7 +206,7 @@ function App() {
 
       <section className="contact shell">
         <motion.div {...fadeUp}>
-          <p className="eyebrow">What's next <span>05</span></p>
+          <p className="eyebrow">What's next </p>
           <h2>Let's build<br />something <em>good.</em></h2>
         </motion.div>
         <motion.a className="contact-mail" href="mailto:abinandsuresh39@gmail.com" {...fadeUp}>
